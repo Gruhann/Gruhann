@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 What I’m Working On<br>Developing dynamic full-stack websites and applications.<br><br>🤝 Looking to Collaborate On<br>Full-stack web application development.<br>Machine learning solutions for agricultural challenges.<br>React-based projects with a focus on frontend performance and optimization.<br>🌱 What I’m Learning<br>Advanced backend integration techniques for React Native applications.<br><br>💬 Ask Me About<br>Building scalable full-stack applications with React and Node.js.<br>Applying AI/ML technologies to solve real-world problems.
+🔭 What I’m Working On<br>Developing dynamic full-stack websites and applications.<br><br>🤝 Looking to Collaborate On<br>Full-stack web application development.<br>React-based projects with a focus on frontend performance and optimization.<br>🌱 What I’m Learning<br>Advanced backend integration techniques for React Native applications.<br><br>💬 Ask Me About<br>Building scalable full-stack applications with React and Node.js.<br>Applying AI/ML technologies to solve real-world problems.
 
 
 ## 🌐 Socials:
